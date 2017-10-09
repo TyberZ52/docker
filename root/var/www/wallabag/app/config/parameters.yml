@@ -49,7 +49,7 @@ parameters:
 
     # Redis processing
     redis_scheme: tcp
-    redis_host: redis
+    redis_host: localhost
     redis_port: 6379
     redis_path: null
     redis_password: null
